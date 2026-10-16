@@ -8,7 +8,7 @@
 👨‍🏫 Software Development Lecturer  
 ⚡ ADHD superpower  
 
-Building at the intersection of **business, technology, and AI** — currently working on a startup and participating in the **Igniter pre-accelerator**.
+Currently leading two startups as **Co-Founder & CEO** and **Co-Founder & CTO**, building AI-driven products, competing in hackathons, and developing a growing interest in cybersecurity.
 
 [![Say hello — contact and feedback](assets/say-hello.svg)](https://tally.so/r/1Aq86L)
 
