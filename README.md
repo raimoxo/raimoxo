@@ -1,11 +1,10 @@
 [![Hi, I'm Raimo — r*xo](assets/profile-banner.svg)](https://tally.so/r/1Aq86L)
 
-🛰️ **Co-Founder & CEO at Aerion**  
-⚙️ **Co-Founder & CTO at undisclosed**  
-🎯 Business IT MSc student at **TalTech**  
-💻 Software Developer | 🤖 AI builder  
-🏆 Hackathons, startups & turning ideas into useful products  
-👨‍🏫 Software Development Lecturer  
+🛰️ Co-Founder & CEO at Aerion  
+🎨 AI Product Designer · Creative Director · Creative Technologist  
+✨ Designing technology that feels intuitive, emotional & delightful  
+🎯 Business IT MSc student at TalTech  
+🏆 Hackathons, Startups & turning ideas into wow moments  
 ⚡ ADHD superpower  
 
 Currently leading two startups as **Co-Founder & CEO** and **Co-Founder & CTO**, building AI-driven products, competing in hackathons, and developing a growing interest in cybersecurity.
