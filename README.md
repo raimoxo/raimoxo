@@ -1,7 +1,7 @@
 [![Hi, I'm Raimo — r*xo](assets/profile-banner.svg)](https://tally.so/r/1Aq86L)
 
 🛰️ Co-Founder & CEO at Aerion  
-🎨 AI Creative Director & Solution Architect
+🎨 AI Creative Director & Solution Architect  
 ✨ Designing technology that feels intuitive, emotional & delightful  
 🎯 Business IT MSc student at TalTech  
 🏆 Hackathons, Startups & turning ideas into wow moments  
