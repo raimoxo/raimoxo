@@ -1,9 +1,9 @@
 [![Hi, I'm Raimo: AI Creative Director & Solution Architect, Tallinn](assets/banner.png)](https://raimoxo.com/?utm_source=github&utm_medium=profile)
 
-🛰️ Co-Founder & CEO, Aerion  
-🪄 Creative Director & Solution Architect, POOF Solutions  
-🎓 Software development lecturer, Tallinn University · MSc Business IT, TalTech  
-⚡ Hackathons, startups & an ADHD superpower
+🛰️ Co-Founder & CEO at Aerion  
+🎨 Creative Director & Solution Architect at POOF Solutions  
+🎯 Business IT MSc at TalTech  
+🎓 Software Development Lecturer at TLÜ
 
 [![POOF Solutions: AI agents, SaaS, apps and automation](assets/poof.png)](https://poofsolutions.com)
 [![Aerion: autonomous drone network for cities](assets/aerion.png)](https://aerion.ee)
