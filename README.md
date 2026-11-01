@@ -1,14 +1,12 @@
-[![Hi, I'm Raimo — r*xo](assets/profile-banner.svg)](https://tally.so/r/1Aq86L)
+[![Hi, I'm Raimo: AI Creative Director & Solution Architect, Tallinn](assets/banner.png)](https://raimoxo.com)
 
-🛰️ Co-Founder & CEO at Aerion  
-🎨 AI Creative Director & Solution Architect  
-✨ Designing technology that feels intuitive, emotional & delightful  
-🎯 Business IT MSc student at TalTech  
-🏆 Hackathons, Startups & turning ideas into wow moments  
-⚡ ADHD superpower  
+🛰️ Co-Founder & CEO, Aerion  
+🪄 Creative Director & Solution Architect, POOF Solutions  
+🎓 Software development lecturer, Tallinn University · MSc Business IT, TalTech  
+⚡ Hackathons, startups & an ADHD superpower
 
-Currently leading two startups as **Co-Founder & CEO** and **Co-Founder & CTO**, building AI-driven products, competing in hackathons, and developing a growing interest in cybersecurity.
+[![POOF Solutions: AI agents, SaaS, apps and automation](assets/poof.png)](https://poofsolutions.com)
+[![Aerion: autonomous drone network for cities](assets/aerion.png)](https://aerion.ee)
+[![raimoxo.com: portfolio, events and let's build anything](assets/raimoxo.png)](https://raimoxo.com)
 
-[![Say hello — contact and feedback](assets/say-hello.svg)](https://tally.so/r/1Aq86L)
-
-[LinkedIn](https://www.linkedin.com/in/raimopregel) · [Instagram (@raimoxo)](https://www.instagram.com/raimoxo/)
+[LinkedIn](https://www.linkedin.com/in/raimopregel/) · [Instagram](https://www.instagram.com/raimoxo/)
